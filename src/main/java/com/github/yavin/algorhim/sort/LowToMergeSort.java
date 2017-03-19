@@ -1,8 +1,4 @@
-/*
- * Copyright (c) 2017, TP-Link Co.,Ltd.
- * Author:  taoyang <taoyang@tp-link.com.cn>
- * Created: 2017-03-18
- */
+
 package com.github.yavin.algorhim.sort;
 
 public class LowToMergeSort extends MergeSort {
